@@ -66,6 +66,8 @@ IPCheck VT se ejecuta desde la línea de comandos y ofrece opciones tanto para c
 
 Este comando consultará la dirección IP `8.8.8.8` y mostrará la información relevante en la consola.
 
+![image](https://github.com/user-attachments/assets/021104e5-e84d-473d-b45b-4f4d74faa899)
+
 ### Ejemplo: Consulta de múltiples IPs desde un archivo
 
 Supón que tienes un archivo llamado `ips.txt` con una IP por línea. Para analizar todas las IPs y exportar los resultados a un archivo CSV, puedes ejecutar:
@@ -78,6 +80,12 @@ Supón que tienes un archivo llamado `ips.txt` con una IP por línea. Para anali
 - `-o resultados.csv`: Define la ruta y nombre del archivo CSV de salida.
 - `-u`: Incluye en la salida la URL de validación en VirusTotal para cada IP.
 - `-vv`: Incrementa la verbosidad para mostrar información adicional (tablas detalladas).
+
+![image](https://github.com/user-attachments/assets/7183afc5-0d35-49d0-884d-3be087afb3e5)
+
+![image](https://github.com/user-attachments/assets/2861f407-e041-4025-aabd-5212c3bb89f0)
+
+![image](https://github.com/user-attachments/assets/966ca2b1-3110-406f-87b5-f7ae75770dd7)
 
 ---
 
